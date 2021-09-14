@@ -1,3 +1,8 @@
+---
+title: "Ignis quoque stabula notissima sequar"
+date: 2021-09-14
+---
+
 # Ignis quoque stabula notissima sequar
 
 ## Echidnae et vimque ense solvere aurea
